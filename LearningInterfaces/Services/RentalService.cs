@@ -5,13 +5,14 @@ namespace LearningInterfaces.Services {
     internal class RentalService {
         public double PricePerHour { get; set; }
         public double PricePerDay { get; set; }
-        private BrazilTaxService BrazilTaxService = new BrazilTaxService();
+        private ITaxService _taxService;
 
         public RentalService() { }
 
-        public RentalService(double pricePerHour, double pricePerDay) {
+        public RentalService(double pricePerHour, double pricePerDay, ITaxService taxService) {
             PricePerHour = pricePerHour;
             PricePerDay = pricePerDay;
+            _taxService = taxService;
         }
         public void ProcessInvoice(CarRental carRental) {
             TimeSpan duration = carRental.Finish.Subtract(carRental.Start);
@@ -20,10 +21,10 @@ namespace LearningInterfaces.Services {
                 basicPayment = PricePerHour * Math.Ceiling(duration.TotalHours);
             }
             else {
-                basicPayment = PricePerHour * Math.Ceiling(duration.TotalDays);
+                basicPayment = PricePerDay * Math.Ceiling(duration.TotalDays);
             }
 
-            double tax = BrazilTaxService.Tax(basicPayment);
+            double tax = _taxService.Tax(basicPayment);
 
             carRental.Invoice = new Invoice(basicPayment, tax);
         }

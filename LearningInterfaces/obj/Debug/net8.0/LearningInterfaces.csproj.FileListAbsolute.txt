@@ -12,3 +12,4 @@ C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\refint\L
 C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.pdb
 C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.genruntimeconfig.cache
 C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\ref\LearningInterfaces.dll
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.sourcelink.json

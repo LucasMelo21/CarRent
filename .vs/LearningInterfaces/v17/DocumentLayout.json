@@ -11,12 +11,8 @@
       "RelativeMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\services\\rentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|c:\\temp\\projetos\\learninginterfaces\\learninginterfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|c:\\temp\\projetos\\learninginterfaces\\learninginterfaces\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|c:\\temp\\projetos\\learninginterfaces\\learninginterfaces\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\services\\itaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|c:\\temp\\projetos\\learninginterfaces\\learninginterfaces\\entities\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +21,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|c:\\temp\\projetos\\learninginterfaces\\learninginterfaces\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|c:\\temp\\projetos\\learninginterfaces\\learninginterfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\services\\braziltaxservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|c:\\temp\\projetos\\learninginterfaces\\learninginterfaces\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDE5785-1AF5-454D-B362-316B050F8EBC}|LearningInterfaces\\LearningInterfaces.csproj|solutionrelative:learninginterfaces\\entities\\carrental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -44,7 +48,7 @@
               "RelativeDocumentMoniker": "LearningInterfaces\\Services\\RentalService.cs",
               "ToolTip": "C:\\temp\\Projetos\\LearningInterfaces\\LearningInterfaces\\Services\\RentalService.cs",
               "RelativeToolTip": "LearningInterfaces\\Services\\RentalService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T12:59:09.414Z",
               "EditorCaption": ""
@@ -52,19 +56,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ITaxService.cs",
+              "DocumentMoniker": "C:\\temp\\Projetos\\LearningInterfaces\\LearningInterfaces\\Services\\ITaxService.cs",
+              "RelativeDocumentMoniker": "LearningInterfaces\\Services\\ITaxService.cs",
+              "ToolTip": "C:\\temp\\Projetos\\LearningInterfaces\\LearningInterfaces\\Services\\ITaxService.cs",
+              "RelativeToolTip": "LearningInterfaces\\Services\\ITaxService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:07:55.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BrazilTaxService.cs",
               "DocumentMoniker": "C:\\temp\\Projetos\\LearningInterfaces\\LearningInterfaces\\Services\\BrazilTaxService.cs",
               "RelativeDocumentMoniker": "LearningInterfaces\\Services\\BrazilTaxService.cs",
               "ToolTip": "C:\\temp\\Projetos\\LearningInterfaces\\LearningInterfaces\\Services\\BrazilTaxService.cs",
               "RelativeToolTip": "LearningInterfaces\\Services\\BrazilTaxService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T12:55:57.389Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "CarRental.cs",
               "DocumentMoniker": "C:\\temp\\Projetos\\LearningInterfaces\\LearningInterfaces\\Entities\\CarRental.cs",
               "RelativeDocumentMoniker": "LearningInterfaces\\Entities\\CarRental.cs",
@@ -77,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Invoice.cs",
               "DocumentMoniker": "C:\\temp\\Projetos\\LearningInterfaces\\LearningInterfaces\\Entities\\Invoice.cs",
               "RelativeDocumentMoniker": "LearningInterfaces\\Entities\\Invoice.cs",
@@ -90,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\temp\\Projetos\\LearningInterfaces\\LearningInterfaces\\Entities\\Vehicle.cs",
               "RelativeDocumentMoniker": "LearningInterfaces\\Entities\\Vehicle.cs",
@@ -109,7 +126,7 @@
               "RelativeDocumentMoniker": "LearningInterfaces\\Program.cs",
               "ToolTip": "C:\\temp\\Projetos\\LearningInterfaces\\LearningInterfaces\\Program.cs",
               "RelativeToolTip": "LearningInterfaces\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T22:11:13.682Z",
               "EditorCaption": ""
