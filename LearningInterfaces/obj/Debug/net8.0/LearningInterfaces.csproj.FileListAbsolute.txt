@@ -1,0 +1,14 @@
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\bin\Debug\net8.0\LearningInterfaces.exe
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\bin\Debug\net8.0\LearningInterfaces.deps.json
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\bin\Debug\net8.0\LearningInterfaces.runtimeconfig.json
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\bin\Debug\net8.0\LearningInterfaces.dll
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\bin\Debug\net8.0\LearningInterfaces.pdb
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.AssemblyInfoInputs.cache
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.AssemblyInfo.cs
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.csproj.CoreCompileInputs.cache
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.dll
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\refint\LearningInterfaces.dll
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.pdb
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\LearningInterfaces.genruntimeconfig.cache
+C:\temp\Projetos\LearningInterfaces\LearningInterfaces\obj\Debug\net8.0\ref\LearningInterfaces.dll
